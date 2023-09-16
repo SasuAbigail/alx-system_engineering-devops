@@ -1,1 +1,1 @@
-my reade for shell navigation
+Shell, init files, variables and expansions
