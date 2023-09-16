@@ -1,1 +1,1 @@
-my readme
+my reade for shell navigation
